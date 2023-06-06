@@ -1,6 +1,11 @@
+<<<<<<< HEAD
 #Vagrant
 
 ##Resources
+=======
+#vagrant#
+##resources
+>>>>>>> d0353538471a758b9908b8918a05a392576bd969
 *virtual machine
 *man uname
 
